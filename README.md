@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building mod
 ## 🚀 About Me
 - 🔥 Passionate about web and mobile app development
 - ⚡ Code in React, Flutter, Firebase, and Tailwind CSS
-- 📦 Love working with APIs, cloud services, and scalable architectures
 
 ## 🛠️ Technologies & Tools
 - **Frontend:** React, Flutter, Tailwind CSS, Material UI
