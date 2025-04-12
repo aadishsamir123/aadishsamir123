@@ -13,4 +13,4 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building mod
 
 ## GitHub Stats
 
-![aadishsamir123's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadishsamir123)
+![aadishsamir123's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadishsamir123&theme=dark&show-icons=true)
