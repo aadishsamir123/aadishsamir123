@@ -7,14 +7,8 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building mod
 - ⚡ Code in React, Flutter, Firebase, and Tailwind CSS
 
 ## 🛠️ Technologies & Tools
-- **Frontend:** React, Flutter, Tailwind CSS, Material UI
+- **Frontend:** Flutter
 - **Backend:** Firebase, Firestore
 - **DevOps & Tools:** Docker, macOS, Fish shell
 
 Thanks for stopping by! 🚀
-
-
-<!---
-aadishsamir123/aadishsamir123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
