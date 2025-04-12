@@ -11,4 +11,6 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building mod
 - **Backend:** Firebase, Firestore
 - **DevOps & Tools:** Docker, macOS, Fish shell
 
-Thanks for stopping by! 🚀
+##GitHub Stats
+
+![aadishsamir123's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadishsamir123)
