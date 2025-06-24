@@ -17,4 +17,4 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building mod
 
 [![aadishsamir123's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadishsamir123&theme=transparent&show_icons=true&hide_border=true&layout=compact)](https://github.com/aadishsamir123)
 
-[![aadishsamir123's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@aadishsamir123&theme=transparent&hide_border=true)](https://wakatime.com/@aadishsamir123)
+[![aadishsamir123's WakaTime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=11557&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=aadishsamir123's+Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
