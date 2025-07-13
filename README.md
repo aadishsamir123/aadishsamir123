@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building mod
 
 ## 🚀 About Me
 - 🔥 Passionate about web and mobile app development
-- ⚡ Code in React, Flutter, Firebase, and Tailwind CSS
+- ⚡ Code in React, Flutter and Firebase.
 
 ## 🛠️ Technologies & Tools
-- **Frontend:** Flutter
-- **Backend:** Firebase, Firestore
-- **DevOps & Tools:** Docker, macOS, Fish shell
+- **Frontend:** Flutter, Vite.js with React(sometimes)
+- **Backend:** Firebase
+- **DevOps & Tools:** macOS 26 using VSCode to edit React and Flutter code, and Android Studio and WebStorm to create projects(it's much easier)
 
 ## 📊 GitHub Stats
 
